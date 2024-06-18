@@ -2,6 +2,8 @@
 
 # About me:
 
+I am a BCA/MCA graduate with strong coding skills in Python, Java, C, and web technologies. Experienced in mobile app and web development, with a focus on projects in Data Structures, Machine Learning, and Cloud Computing. Quick learner known for collaborative teamwork and effective communication. Ready to leverage technical expertise and creativity to drive software development success.
+
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=color&logo=python&logoColor=multi) 
@@ -12,17 +14,17 @@
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
+
+![Yashovardhn's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yashovardhn&layout=compact&hide=php&langs_count=8)
+![Yashovardhn's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashovardhn&show_icons=true&theme=radical)
+
 ## 📫 Contact Me
 
 - 📍 Delhi, IN
 - 📞 8527750408
 - 📧 yashovardhn@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/yashovardhn)
-- 💻 [GitHub](https://github.com/yashovardhn)
-
-
-![Yashovardhn's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yashovardhn&layout=compact&hide=php&langs_count=8)
-
+- 
 ## 🎸 Interests
 
 - Music
