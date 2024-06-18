@@ -37,7 +37,7 @@ I am a BCA/MCA graduate with strong coding skills in Python, Java, C, and web te
 ### Top Languages by Repository
 
 <div align="center">
-  ![Top Languages by Repository](https://github-readme-stats.vercel.app/api/top-langs/?username=yashovardhn&layout=compact&hide=php&langs_count=8)
+  ![Yashovardhn's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashovardhn&show_icons=true&theme=radical)
 </div>
 
 
