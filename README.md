@@ -1,6 +1,7 @@
 # Hi there, I'm Yashovardhn Srivastava! 👋
 
-## 🛠 Skills
+![Yashovardhn's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yashovardhn&layout=compact&hide=php&langs_count=8)
+
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
