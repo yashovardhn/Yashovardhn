@@ -22,9 +22,9 @@ I am a BCA/MCA graduate with strong coding skills in Python, Java, C, and web te
 ![Xcode](https://img.shields.io/badge/Xcode-4CA4B6?style=flat&logo=xcode&logoColor=white)
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashovardhn&layout=compact&hide=php&langs_count=8" alt="Yashovardhn's GitHub stats">
-</div>
+
+![Top Languages by Repository](https://github-readme-stats.vercel.app/api/top-langs/?username=yashovardhn&layout=compact&hide=php&langs_count=8)<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashovardhn&layout=compact&hide=php&langs_count=8" alt="Yashovardhn's GitHub stats">![Top Languages by Commit](https://github-readme-stats.vercel.app/api/top-langs/?username=yashovardhn&layout=compact&hide=php&langs_count=8&card_type=top-langs-repo)
+
 
 
 ## 📫 Contact Me
