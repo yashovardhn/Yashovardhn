@@ -6,7 +6,7 @@ I am a BCA/MCA graduate with strong coding skills in Python, Java, C, and web te
 
 
 **Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=color&logo=python&logoColor=multi) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=color&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
@@ -22,28 +22,20 @@ I am a BCA/MCA graduate with strong coding skills in Python, Java, C, and web te
 ![Xcode](https://img.shields.io/badge/Xcode-4CA4B6?style=flat&logo=xcode&logoColor=white)
 
 
-
-![Top Languages by Repository](https://github-readme-stats.vercel.app/api/top-langs/?username=yashovardhn&layout=compact&hide=php&langs_count=8)<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashovardhn&layout=compact&hide=php&langs_count=8" alt="Yashovardhn's GitHub stats">![Top Languages by Commit](https://github-readme-stats.vercel.app/api/top-langs/?username=yashovardhn&layout=compact&hide=php&langs_count=8&card_type=top-langs-repo)
-
-
-
 ## 📫 Contact Me
 
 - 📍 Delhi, IN
 - 📞 8527750408
 - 📧 yashovardhn@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/yashovardhn)
-- 
-## 🎸 Interests
 
-- Music
-- Football
-- Formula 1
-- Self-improvement
-
----
 
 *Thank you for visiting my GitHub profile! Feel free to check out my repositories and connect with me.* 
+
+## 📊Statistics 
+
+![Top Languages by Repository](https://github-readme-stats.vercel.app/api/top-langs/?username=yashovardhn&layout=compact&hide=php&langs_count=8)<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashovardhn&layout=compact&hide=php&langs_count=8" alt="Yashovardhn's GitHub stats">![Top Languages by Commit](https://github-readme-stats.vercel.app/api/top-langs/?username=yashovardhn&layout=compact&hide=php&langs_count=8&card_type=top-langs-repo)
+
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yashovardhn)
 
