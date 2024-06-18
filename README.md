@@ -22,12 +22,6 @@ I am a BCA/MCA graduate with strong coding skills in Python, Java, C, and web te
 ![Xcode](https://img.shields.io/badge/Xcode-4CA4B6?style=flat&logo=xcode&logoColor=white)
 
 
-## 📫 Contact Me
-
-- 📍 Delhi, IN
-- 📞 8527750408
-- 📧 yashovardhn@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/yashovardhn)
 
 
 *Thank you for visiting my GitHub profile! Feel free to check out my repositories and connect with me.* 
@@ -40,7 +34,13 @@ I am a BCA/MCA graduate with strong coding skills in Python, Java, C, and web te
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashovardhn&layout=compact&hide=php&langs_count=8" alt="Yashovardhn's GitHub stats">
 </div>
 
+## 📫 Contact Me
 
+- 📍 Delhi, IN
+- 📞 8527750408
+- 📧 yashovardhn@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/yashovardhn)
+-  𝕏 [X](https://https://x.com/yashovardhn)
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yashovardhn)
 
