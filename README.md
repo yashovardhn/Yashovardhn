@@ -14,25 +14,6 @@
 
 I am an enthusiastic BCA/MCA fresher with a passion for coding and a knack for solving complex problems. Eager to dive into the world of software development, I bring a solid foundation in programming and a keen eye for innovation. Known for being a quick learner and an excellent team player with strong communication and interpersonal skills, I am ready to leverage my technical expertise and creative thinking to drive organizational success and growth.
 
-## 🎓 Education
-
-**Master of Computer Applications**  
-*Vivekananda Institute of Professional Studies, New Delhi*  
-2021 – 2023 | GPA: 8.6/10
-
-**Bachelor of Computer Applications**  
-*Vivekananda Institute of Professional Studies, New Delhi*  
-2018 – 2021 | GPA: 7.5/10
-
-## 📚 Coursework
-
-- Data Structures and Algorithms
-- Machine Learning
-- Big Data
-- Digital Marketing
-- Cloud Computing
-- Object Oriented Software Engineering
-
 ## 🛠 Skills
 
 **Languages:**  
