@@ -10,10 +10,6 @@
 - 💼 [LinkedIn](https://linkedin.com/in/yashovardhn)
 - 💻 [GitHub](https://github.com/yashovardhn)
 
-## 👨‍💻 About Me
-
-I am an enthusiastic BCA/MCA fresher with a passion for coding and a knack for solving complex problems. Eager to dive into the world of software development, I bring a solid foundation in programming and a keen eye for innovation. Known for being a quick learner and an excellent team player with strong communication and interpersonal skills, I am ready to leverage my technical expertise and creative thinking to drive organizational success and growth.
-
 ## 🛠 Skills
 
 **Languages:**  
@@ -25,16 +21,6 @@ I am an enthusiastic BCA/MCA fresher with a passion for coding and a knack for s
 ![Swift](https://img.shields.io/badge/Swift-4CA4B6?style=flat&logo=swift&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-4CA4B6?style=flat&logo=postgresql&logoColor=white)
 
-**Developer Tools:**  
-![VS Code](https://img.shields.io/badge/VS_Code-4CA4B6?style=flat&logo=visual-studio-code&logoColor=white) 
-![Azure](https://img.shields.io/badge/Azure-4CA4B6?style=flat&logo=microsoft-azure&logoColor=white) 
-![Xcode](https://img.shields.io/badge/Xcode-4CA4B6?style=flat&logo=xcode&logoColor=white)
-
-**Technologies/Frameworks:**  
-![Git](https://img.shields.io/badge/Git-4CA4B6?style=flat&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-4CA4B6?style=flat&logo=github&logoColor=white) 
-![Django](https://img.shields.io/badge/Django-4CA4B6?style=flat&logo=django&logoColor=white) 
-![SwiftUI](https://img.shields.io/badge/SwiftUI-4CA4B6?style=flat&logo=swift&logoColor=white)
 
 ## 🎸 Interests
 
@@ -48,4 +34,6 @@ I am an enthusiastic BCA/MCA fresher with a passion for coding and a knack for s
 *Thank you for visiting my GitHub profile! Feel free to check out my repositories and connect with me.* 
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yashovardhn)
+
+Find me on GitHub: [https://github.com/yashovardhn](https://github.com/yashovardhn)
 
