@@ -40,7 +40,7 @@ I am a BCA/MCA graduate with strong coding skills in Python. Experienced in mobi
 - 📞 8527750408
 - 📧 yashovardhn@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/yashovardhn)
--  𝕏 [X](https://https://x.com/yashovardhn)
+-   𝕏  [X](https://https://x.com/yashovardhn)
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yashovardhn)
 
