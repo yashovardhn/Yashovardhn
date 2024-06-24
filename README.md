@@ -24,18 +24,15 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white) 
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-#
+  
+   
 ![Git](https://img.shields.io/badge/Git-4CA4B6?style=flat&logo=git&logoColor=white) 
-![]([https://img.shields.io/badge/GitHub-4CA4B6?style=flat&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)) 
-![Django](https://img.shields.io/badge/Django-4CA4B6?style=flat&logo=django&logoColor=white) 
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-4CA4B6?style=flat&logo=swift&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-4CA4B6?style=flat&logo=visual-studio-code&logoColor=white) 
-![Azure](https://img.shields.io/badge/Azure-4CA4B6?style=flat&logo=microsoft-azure&logoColor=white) 
-![Xcode](https://img.shields.io/badge/Xcode-4CA4B6?style=flat&logo=xcode&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
 
 *Thank you for visiting my GitHub profile! Feel free to check out my repositories and connect with me.* 
