@@ -27,7 +27,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white) 
-![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 #
 ![Git](https://img.shields.io/badge/Git-4CA4B6?style=flat&logo=git&logoColor=white) 
 ![]([https://img.shields.io/badge/GitHub-4CA4B6?style=flat&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)) 
