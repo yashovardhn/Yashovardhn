@@ -11,9 +11,16 @@
 <div>🔴🔴🚷🚯🚳🚱🔞📵🚭🚫⛔️🔴🔴</div>
 
 
+#
+#
+#
+#
+#
+
+
 
 **Languages:**  
-![Python]([https://img.shields.io/badge/Python-3776AB?style=color&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
