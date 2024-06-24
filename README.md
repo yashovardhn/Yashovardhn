@@ -7,7 +7,8 @@
 <div>🟢🟢🟩✅♻️🈯️💹❇️❎✳️🟩🟢🟢</div>
 <div>😎 Calm Compost and Collected</div>
 <div>🤟🏻 Always Learning</div>
-<div>🤲 Pray for my code sins</div>
+<div>🤲 Pray for my coding sins</div>
+<div>🚀 Learning Web Dev </div>
 <div>🔴🔴🚷🚯🚳🚱🔞📵🚭🚫⛔️🔴🔴</div>
 <br></br>
 
