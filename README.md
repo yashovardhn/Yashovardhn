@@ -53,8 +53,8 @@
 -   𝕏  [X](https://https://x.com/yashovardhn)
 
   <br></br>
-*Thank you for visiting my GitHub profile! Feel free to check out my repositories and connect with me.* 
+
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yashovardhn)
 *Thank you for visiting my GitHub profile! Feel free to check out my repositories and connect with me.* 
-Find me on GitHub: [https://github.com/yashovardhn](https://github.com/yashovardhn)
+
 
