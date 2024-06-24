@@ -2,7 +2,12 @@
 
 # About me:
 
-I am a BCA/MCA graduate with strong coding skills in Python. Experienced in mobile app and web development, with a focus on projects in Data Structures, Machine Learning, and Cloud Computing. Quick learner known for collaborative teamwork and effective communication. Ready to leverage technical expertise and creativity to drive software development success.
+🟢🟢🟩✅♻️🈯️💹❇️❎✳️🟩🟢🟢
+😎 Calm Compost and Collected
+🤟🏻 Always Learning
+🤲 Pray for my code sins
+🔴🔴🚷🚯🚳🚱🔞📵🚭🚫⛔️🔴🔴
+
 
 
 **Languages:**  
