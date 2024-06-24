@@ -22,7 +22,7 @@
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white) 
 #
 ![Git](https://img.shields.io/badge/Git-4CA4B6?style=flat&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-4CA4B6?style=flat&logo=github&logoColor=white) 
+![GitHub]([https://img.shields.io/badge/GitHub-4CA4B6?style=flat&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)) 
 ![Django](https://img.shields.io/badge/Django-4CA4B6?style=flat&logo=django&logoColor=white) 
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-4CA4B6?style=flat&logo=swift&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-4CA4B6?style=flat&logo=visual-studio-code&logoColor=white) 
