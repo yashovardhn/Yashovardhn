@@ -1,6 +1,6 @@
 # Hi there, I'm Yashovardhn Srivastava! 👋
 
-# Breezy
+
 
 # About me:
 
