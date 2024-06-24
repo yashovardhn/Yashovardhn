@@ -2,11 +2,11 @@
 
 # About me:
 
-🟢🟢🟩✅♻️🈯️💹❇️❎✳️🟩🟢🟢
-😎 Calm Compost and Collected
-🤟🏻 Always Learning
-🤲 Pray for my code sins
-🔴🔴🚷🚯🚳🚱🔞📵🚭🚫⛔️🔴🔴
+<div>🟢🟢🟩✅♻️🈯️💹❇️❎✳️🟩🟢🟢</div>
+<div>😎 Calm Compost and Collected</div>
+<div>🤟🏻 Always Learning</div>
+<div>🤲 Pray for my code sins</div>
+<div>🔴🔴🚷🚯🚳🚱🔞📵🚭🚫⛔️🔴🔴</div>
 
 
 
