@@ -1,5 +1,7 @@
 # Hi there, I'm Yashovardhn Srivastava! 👋
 
+# Breezy
+
 # About me:
 
 <div>🟢🟢🟩✅♻️🈯️💹❇️❎✳️🟩🟢🟢</div>
@@ -17,7 +19,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+<div>![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-4CA4B6?style=flat&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-4CA4B6?style=flat&logo=github&logoColor=white) 
 ![Django](https://img.shields.io/badge/Django-4CA4B6?style=flat&logo=django&logoColor=white) 
@@ -25,7 +27,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-4CA4B6?style=flat&logo=visual-studio-code&logoColor=white) 
 ![Azure](https://img.shields.io/badge/Azure-4CA4B6?style=flat&logo=microsoft-azure&logoColor=white) 
 ![Xcode](https://img.shields.io/badge/Xcode-4CA4B6?style=flat&logo=xcode&logoColor=white)
-
+</div>
 
 
 
