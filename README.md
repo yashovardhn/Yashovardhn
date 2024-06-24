@@ -1,5 +1,5 @@
 # Hi there, I'm Yashovardhn Srivastava! 👋
-  # or Breezy
+  ** or Breezy **
   <br></br>
 
 # About me:
