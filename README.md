@@ -38,14 +38,18 @@
 
 ### Top Languages by Repository
 
+
+[![GitHub Streak](https://github.com/yashovardhn)](https://git.io/streak-stats)
+   <br></br>
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashovardhn&layout=compact&hide=php&langs_count=8" alt="Yashovardhn's GitHub stats">
 </div>
 
   <br></br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DenverCoder1)](https://git.io/streak-stats)
-   <br></br>
+
 ## 📫 Contact Me
 
 - 📍 Delhi, IN
