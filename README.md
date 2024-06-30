@@ -40,7 +40,7 @@
 
 
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yashovardhn"/></a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Yashovardhn" alt="GitHub Streak" /></a>
 </p>
    <br></br>
 
