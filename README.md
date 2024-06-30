@@ -36,12 +36,15 @@
 
 ## 📊Statistics 
 
-### Top Languages by Repository
+### Github Streak
 
 
-[![GitHub Streak](https://github.com/yashovardhn)](https://git.io/streak-stats)
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yashovardhn"/></a>
+</p>
    <br></br>
 
+### Top Languages by Repository
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashovardhn&layout=compact&hide=php&langs_count=8" alt="Yashovardhn's GitHub stats">
