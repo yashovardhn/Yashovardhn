@@ -1,5 +1,5 @@
 # Hi there, I'm Yashovardhn Srivastava! 👋
-<div align="center">Ahoy!</div>
+<div align="center"><h1>Ahoy!</h1></div>
                                                                  
 <br></br>
 
