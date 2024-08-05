@@ -1,7 +1,6 @@
 # Hi there, I'm Yashovardhn Srivastava! 👋
 <div align="center"><h1>Ahoy!</h1></div>
                                                                  
-<br></br>
 
 # About me:
 
