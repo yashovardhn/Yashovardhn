@@ -44,4 +44,4 @@
 *Thank you for visiting my GitHub profile! Feel free to check out my repositories and connect with me.* 
 <div></div>
 
-[![](https://visitcount.itsvg.in/api?id=yashovardhn&icon=0&color=9)](https://visitcount.itsvg.in)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yashovardhn)
