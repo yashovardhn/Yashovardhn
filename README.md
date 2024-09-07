@@ -42,8 +42,8 @@
 - 📍 Delhi, IN
 - 📞 8527750408
 - 📧 yashovardhn@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/yashovardhn)
--   𝕏  [X](https://https://x.com/yashovardhn)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/yashovardhn)
+- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@yashovardhn)
 
   <br></br>
 
@@ -52,5 +52,7 @@
 <div></div>
 
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yashovardhn" alt="Visitor Count
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yashovardhn" alt="Visitor Count"/>
+</div>
+
 
