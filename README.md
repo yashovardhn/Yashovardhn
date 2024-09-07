@@ -3,7 +3,6 @@
                                                                  
 
 # About me:
-
 <div>😎 Calm Compost and Collected</div>
 <div>🤟🏻 Always Learning</div>
 <div>🤲 Pray for my coding sins</div>
@@ -23,8 +22,8 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=yashovardhn&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashovardhn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">![](https://github-readme-streak-stats.herokuapp.com/?user=yashovardhn&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashovardhn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</div>
 
 
   <br></br>
