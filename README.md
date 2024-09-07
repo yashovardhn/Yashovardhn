@@ -21,14 +21,11 @@
 <br></br>
 
 
-## 📊Statistics 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yashovardhn&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yashovardhn&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashovardhn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-<div align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=yashovardhn&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=yashovardhn&theme=dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashovardhn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-  </div>
 
   <br></br>
 
