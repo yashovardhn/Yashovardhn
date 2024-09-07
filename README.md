@@ -1,5 +1,8 @@
 # Hi there, I'm Yashovardhn Srivastava! 👋
-<div align="center"><h1>Ahoy!</h1></div>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</div>
+
                                                                  
 
 # About me:
@@ -48,4 +51,6 @@
 *Thank you for visiting my GitHub profile! Feel free to check out my repositories and connect with me.* 
 <div></div>
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yashovardhn)
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yashovardhn" alt="Visitor Count
+
