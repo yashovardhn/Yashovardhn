@@ -9,7 +9,7 @@
 <div>😎 Calm Compost and Collected</div>
 <div>🤟🏻 Always Learning</div>
 <div>🤲 Pray for my coding sins</div>
-<div>🚀 Learning Web Dev </div>
+<div>🚀 Learning Machine Learning </div>
 <br></br>
 
 
